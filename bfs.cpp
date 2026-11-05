@@ -1,3 +1,8 @@
+// 1. Create an undirected graph using an adjacency list.
+// 2. Add edges to connect different vertices in the graph.
+// 3. Start BFS from vertex 0 and use a queue to visit vertices level by level.
+// 4. Mark visited vertices to avoid visiting the same vertex more than once.
+
 #include <iostream>
 #include <list>
 #include <queue>
